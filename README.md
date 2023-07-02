@@ -1,4 +1,4 @@
 # SwiftUI-Weather
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-02 at 14 19 50](https://github.com/pasanbope/SwiftUI-Weather/assets/100598653/b3b91b3f-4dbd-43c1-bad0-f7a61c5ea32e)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-02 at 14 20 01](https://github.com/pasanbope/SwiftUI-Weather/assets/100598653/a451337e-a231-489a-afa9-ee97daec11d3)
+![Screenshot 2023-07-02 at 14 21 19](https://github.com/pasanbope/SwiftUI-Weather/assets/100598653/6508292e-4d6e-424a-9e40-a9ad5f1279f0)
+![Screenshot 2023-07-02 at 14 21 58](https://github.com/pasanbope/SwiftUI-Weather/assets/100598653/2b86e1a5-dd5d-4920-b38a-54088f8248d6)
